@@ -1,2 +1,2 @@
 # Hello-World
-my first git projrct
+my first git project
